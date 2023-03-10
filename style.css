@@ -304,7 +304,7 @@ header.sticky{
     transform: translateX(14px);
 
 }
-.list.social a{
+.list .social a{
     height: 40px;
     width: 40px;
     background: var(--bg-color);
@@ -317,7 +317,7 @@ header.sticky{
     transition: .3s;
     margin-right: 10px;
 }
-.list.social a:hover{
+.list .social a:hover{
     transform:  scale(1.1);
 }
 .end-text{
